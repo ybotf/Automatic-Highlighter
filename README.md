@@ -46,4 +46,4 @@ Write a C program that implements the dynamic programming approach to get the be
 ## Part F 
 Modify the C program from Part E to get the best sequence of colours. Inputs and Outputs are the same as Part B. For this part, assume only 4 colours, as in Parts A and B.
 
-(altered descrpition written by Grady Fitzpatrick, 2023)
+(Altered descrpition written by Grady Fitzpatrick, 2023)
